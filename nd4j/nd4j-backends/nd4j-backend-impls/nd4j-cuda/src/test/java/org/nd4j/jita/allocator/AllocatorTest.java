@@ -42,6 +42,7 @@ import org.nd4j.jita.allocator.impl.AllocationShape;
 
 import static org.junit.Assert.*;
 
+@Ignore
 @Slf4j
 public class AllocatorTest {
     private static final long SAFETY_OFFSET = 1024L;	
